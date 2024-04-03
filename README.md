@@ -1,6 +1,8 @@
 This is a mentor dashboard i made using MySQL database, NodeJS as backend and React for frontend 
 **I know that the deployed website seems empty but thats only beacuse i had issues in deployment so please allow me to show my My dashboard in the following images!!!
 
+It has all the necessary as well as good to have features
+
 ![image](https://github.com/deepanshug1/mentorDashboard/assets/95443111/d655c252-29a1-43d1-af9c-b2bbc38f8862)
 
 ![image](https://github.com/deepanshug1/mentorDashboard/assets/95443111/7cee85c9-2352-472b-bd1d-80f903f032c5)
